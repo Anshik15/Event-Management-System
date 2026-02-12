@@ -49,10 +49,6 @@ npm install
 npm start
 ```
 
-## Access
-- Backend: http://localhost:8000
-- Frontend: http://localhost:3000
-
 ## Default Flow
 START → INDEX → LOGIN → DASHBOARD (based on role)
 
